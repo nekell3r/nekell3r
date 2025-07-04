@@ -1,7 +1,7 @@
 ## About
 
 Second-year student at the Faculty of Computer Science and Applied Mathematics.  
-Focused on system-level programming and algorithmic problem solving.
+Focused on rapid career development, building wealth, and personal happiness.
 
 ---
 
