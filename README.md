@@ -31,4 +31,6 @@ Focused on system-level programming and algorithmic problem solving.
 - Email: pashok032007@gmail.com
 
 ---
-<div class="tenor-gif-embed" data-postid="17687730" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/kobayashi-san-chi-no-maid-dragon-anime-programmer-typing-keyboard-gif-17687730">
+<p align="center">
+  <img src="https://tenor.com/bmnx8.gif" width="300"/>
+</p>
