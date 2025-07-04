@@ -32,5 +32,5 @@ Focused on system-level programming and algorithmic problem solving.
 
 ---
 <p align="center">
-  <img src="https://c.tenor.com/ZtuVwa_2f1oAAAAd/tenor.gif" width="300"/>
+  <img src="https://c.tenor.com/ZtuVwa_2f1oAAAAd/tenor.gif" width="1000"/>
 </p>
