@@ -4,9 +4,11 @@ Second-year student at the Faculty of Computer Science and Applied Mathematics.
 Focused on system-level programming and algorithmic problem solving.
 
 ---
+
 <p align="center">
   <img src="https://c.tenor.com/ZtuVwa_2f1oAAAAd/tenor.gif" width="1000"/>
 </p>
+
 ---
 
 ### Languages
