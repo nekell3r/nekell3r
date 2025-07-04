@@ -33,6 +33,6 @@ Focused on system-level programming and algorithmic problem solving.
 ---
 
 <p align="center">
-  <img src="[https://media.tenor.com/YoB9Ue3CqkwAAAAC/nekopara-anime.gif](https://tenor.com/ru/view/kobayashi-san-chi-no-maid-dragon-anime-programmer-typing-keyboard-gif-17687730)" width="300"/>
+  <img src="[https://tenor.com/ru/view/kobayashi-san-chi-no-maid-dragon-anime-programmer-typing-keyboard-gif-17687730]" width="300"/>
 </p>
 
