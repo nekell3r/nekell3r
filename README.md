@@ -3,6 +3,12 @@
 Second-year student at the Faculty of Computer Science and Applied Mathematics.  
 Focused on system-level programming and algorithmic problem solving.
 
+---
+<p align="center">
+  <img src="https://c.tenor.com/ZtuVwa_2f1oAAAAd/tenor.gif" width="1000"/>
+</p>
+---
+
 ### Languages
 - C / C++
 - Python, Fastapi
@@ -30,7 +36,3 @@ Focused on system-level programming and algorithmic problem solving.
 - Telegram: [@nekell3r](https://t.me/nekell3r)
 - Email: pashok032007@gmail.com
 
----
-<p align="center">
-  <img src="https://c.tenor.com/ZtuVwa_2f1oAAAAd/tenor.gif" width="1000"/>
-</p>
