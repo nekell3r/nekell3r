@@ -35,6 +35,6 @@ Focused on rapid career development, building wealth, and personal happiness.
 
 ## Contact
 
-- Telegram: [@nekell3r](https://t.me/nekell3r)
-- Email: pashok032007@gmail.com
+- Telegram: [pavelrospov](https://t.me/pavelrospov)
+- Email: pavelrospov@yandex.ru
 
