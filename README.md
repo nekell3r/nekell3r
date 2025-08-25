@@ -1,6 +1,6 @@
 ## About
 
-Second-year student at the Faculty of Computer Science and Applied Mathematics.  
+Student at the Faculty of Computer Science and Applied Mathematics.  
 Focused on rapid career development, building wealth, and personal happiness.
 
 ---
