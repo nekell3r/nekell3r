@@ -35,6 +35,6 @@ Focused on rapid career development, building wealth, and personal happiness.
 
 ## Contact
 
-- Telegram: [pavelrospov](https://t.me/pavelrospov)
-- Email: pavelrospov@yandex.ru
+- Telegram: [pavelzhabskiy](https://t.me/pavelzhabskiy)
+- Email: zhabskiypavel@yandex.ru
 
