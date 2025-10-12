@@ -59,7 +59,7 @@
 ## Контакты
 
 <div align="center">
-  <a href="https://t.me/nekell3r">
+  <a href="https://t.me/jabitski">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:jabsky.pavel@yandex.ru">
