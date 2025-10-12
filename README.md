@@ -4,6 +4,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366f1&center=true&vCenter=true&width=435&lines=Backend+Developer;System+Programming;Building+Scalable+Solutions" alt="Typing SVG" />
 
+<p align="center">
+  <img src="https://c.tenor.com/ZtuVwa_2f1oAAAAd/tenor.gif" width="600"/>
+</p>
+
 </div>
 
 ## О себе
@@ -46,12 +50,6 @@
   <img src="https://streak-stats.demolab.com?user=nekell3r&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekell3r/nekell3r/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekell3r/nekell3r/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nekell3r/nekell3r/output/github-contribution-grid-snake.svg">
-</picture>
-
 ## Активность
 
 <div align="center">
@@ -61,10 +59,10 @@
 ## Контакты
 
 <div align="center">
-  <a href="https://t.me/pavelzhabskiy">
+  <a href="https://t.me/nekell3r">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:zhabskiypavel@yandex.ru">
+  <a href="mailto:jabsky.pavel@yandex.ru">
     <img src="https://img.shields.io/badge/Email-FF0000?style=flat&logo=yandex&logoColor=white" alt="Email" />
   </a>
   <a href="https://github.com/nekell3r">
