@@ -1,124 +1,65 @@
 <div align="center">
-  
-# 👋 Привет, я Pavel Zhabskiy
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Student+%7C+Developer+%7C+Problem+Solver;Building+the+Future+with+Code+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%93%9A" alt="Typing SVG" />
+# 👋 Привет, я Паша
 
-<p align="center">
-  <img src="https://c.tenor.com/ZtuVwa_2f1oAAAAd/tenor.gif" width="800"/>
-</p>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=nekell3r&color=blueviolet&style=flat-square&label=Profile+Views)](https://github.com/nekell3r)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366f1&center=true&vCenter=true&width=435&lines=Backend+Developer;ML+%26+System+Programming;Building+Scalable+Solutions" alt="Typing SVG" />
 
 </div>
 
----
+## О себе
 
-## 🎓 О себе
+Студент факультета компьютерных наук и прикладной математики  
+Фокус на backend-разработке, работе с большими данными и ML-инфраструктуре
 
-```typescript
-const nekell3r = {
-    location: "Russia 🇷🇺",
-    education: "Faculty of Computer Science and Applied Mathematics",
-    interests: ["Software Development", "Algorithms", "Web Technologies"],
-    goals: ["Rapid Career Growth 📈", "Financial Freedom 💰", "Continuous Learning 🧠"],
-    motto: "Code with passion, live with purpose"
-};
-```
+**Backend Development** • **System Programming** • **Data Engineering** • **Machine Learning**
 
-<div align="center">
+## Технологии
 
-### 💼 Focus Areas
-**Backend Development** • **System Programming** • **API Design** • **Problem Solving**
+**Языки**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 
-</div>
+**Backend & API**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apache-kafka&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=elasticsearch&logoColor=white)
 
----
+**DevOps & Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-## 🛠️ Tech Stack
+**Machine Learning**  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 
-<div align="center">
-
-### Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-
-### Frameworks & Tools
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-</div>
-
----
-
-## 📊 GitHub Statistics
+## Статистика
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nekell3r&show_icons=true&theme=tokyonight&hide_title=false&hide_border=true&count_private=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekell3r&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nekell3r&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nekell3r&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=c9d1d9" alt="Top Languages" height="165"/>
 </div>
 
 <div align="center">
-  
-### 🔥 Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=nekell3r&theme=tokyonight&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
-
+  <img src="https://streak-stats.demolab.com?user=nekell3r&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
+## Контакты
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=nekell3r&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nekell3r&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-![snake](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-## 💡 Random Dev Quote
-
-<div align="center">
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/pavelzhabskiy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zhabskiypavel@yandex.ru)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nekell3r)
-
-</div>
-
----
-
-<div align="center">
-  
-### 💭 "First, solve the problem. Then, write the code." - John Johnson
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-
+  <a href="https://t.me/pavelzhabskiy">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:zhabskiypavel@yandex.ru">
+    <img src="https://img.shields.io/badge/Email-FF0000?style=flat&logo=yandex&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/nekell3r">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </div>
