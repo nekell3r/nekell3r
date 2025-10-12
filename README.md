@@ -13,10 +13,10 @@
 ## О себе
 
 Студент факультета компьютерных наук и прикладной математики  
-Фокус на backend-разработке, работе с распределенными системами и большими данными  
+Фокус на backend-разработке и работе с распределенными системами  
 Использую AI-инструменты в разработке
 
-**Backend Development** • **System Programming** • **Data Engineering** • **Distributed Systems**
+**Backend Development** • **System Programming** • **Distributed Systems**
 
 ## Технологии
 
