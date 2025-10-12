@@ -2,16 +2,17 @@
 
 # 👋 Привет, я Паша
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366f1&center=true&vCenter=true&width=435&lines=Backend+Developer;ML+%26+System+Programming;Building+Scalable+Solutions" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366f1&center=true&vCenter=true&width=435&lines=Backend+Developer;System+Programming;Building+Scalable+Solutions" alt="Typing SVG" />
 
 </div>
 
 ## О себе
 
 Студент факультета компьютерных наук и прикладной математики  
-Фокус на backend-разработке, работе с большими данными и ML-инфраструктуре
+Фокус на backend-разработке, работе с распределенными системами и большими данными  
+Использую AI-инструменты в разработке
 
-**Backend Development** • **System Programming** • **Data Engineering** • **Machine Learning**
+**Backend Development** • **System Programming** • **Data Engineering** • **Distributed Systems**
 
 ## Технологии
 
@@ -34,11 +35,6 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
 
-**Machine Learning**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
 ## Статистика
 
 <div align="center">
@@ -48,6 +44,18 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=nekell3r&theme=dark&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="GitHub Streak" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nekell3r/nekell3r/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nekell3r/nekell3r/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nekell3r/nekell3r/output/github-contribution-grid-snake.svg">
+</picture>
+
+## Активность
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nekell3r&theme=github-compact&hide_border=true&bg_color=0d1117&color=6366f1&line=6366f1&point=c9d1d9&area=true&area_color=6366f1" alt="Contribution Graph" />
 </div>
 
 ## Контакты
@@ -62,4 +70,12 @@
   <a href="https://github.com/nekell3r">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
   </a>
+</div>
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=nekell3r&color=6366f1&style=flat&label=👀)
+
 </div>
